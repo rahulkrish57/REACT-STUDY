@@ -8,15 +8,12 @@ export default function App() {
   let myPlaces = [
     {
       name: "world",
-      isHumman: true
     },
     {
       name: "mars",
-      isHumman: false
     },
     {
       name: "jupiter",
-      isHuman: false
     }
   ]
   
