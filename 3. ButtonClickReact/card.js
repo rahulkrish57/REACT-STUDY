@@ -29,6 +29,10 @@ export default function Card(props){
             </ul>
             <div class="d-grid">
               <a href="#" class="btn btn-primary text-uppercase" onClick = {localBtnFunc}>Button</a>
+              {/* <a href="#" class="btn btn-primary text-uppercase" onClick = {() =>{
+              console.log("Button Working");
+              props.handleButtonClick();
+              }}>Button</a>*/}
             </div>
           </div>
         </div>
