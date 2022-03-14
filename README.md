@@ -3,3 +3,6 @@
   npm start
 2. props
 3. hooks
+useState
+useContext
+useEffect
